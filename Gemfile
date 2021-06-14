@@ -54,3 +54,5 @@ group :development, :test do
   gem 'ffaker'
 end
 gem 'kaminari'
+gem 'trestle'
+gem 'trestle-auth'
