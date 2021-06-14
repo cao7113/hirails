@@ -1,0 +1,15 @@
+.git
+tmp
+log
+local*
+*.swp
+
+.dockerignore
+Dockerfile
+docker-compose.yml
+
+.gitignore
+.byebug_history
+config/master.key
+
+node_modules
